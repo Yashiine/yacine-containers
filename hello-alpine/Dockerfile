@@ -1,4 +1,4 @@
-FROM alpine 3.15.0
+FROM alpine:3.15.0
 
 LABEL maintainer="yacine" os="alpine" distro="Alpine 3.15.0"
 
